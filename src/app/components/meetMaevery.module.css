@@ -1,0 +1,23 @@
+
+
+.meetMaeverySection {
+    background-color: #f7f7f7;
+    min-height: 60vh;
+}
+.meetMaeveryMainContainer {
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 3rem;
+}
+
+.headerMeet h1 {
+    font-size: 1.8rem;
+}
+
+.paragraphContainer {
+    width: 35rem;
+    margin-bottom: 2rem;
+}
+.paragraphContainer {
+    font-size: 1.2rem;
+}
